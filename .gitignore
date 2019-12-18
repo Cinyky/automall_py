@@ -284,3 +284,4 @@ dmypy.json
 .pyre/
 
 /.idea/vcs.xml
+/test/file/
